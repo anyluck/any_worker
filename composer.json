@@ -19,12 +19,8 @@
     },
     "autoload":{
         "psr-4":{
-            "Any_ether\\":"src/"
-        }
-    },
-    "autoload-dev": {
-        "psr-4": {
-            "Test\\": "test/"
+            "Anyluck\\ether\\":"src/"
         }
     }
+
 }
