@@ -1,12 +1,12 @@
 {
-    "name": "any/ethereum",
+    "name": "anyluck/ether",
     "description": "php7.1",
     "type": "project",
     "license": "MIT",
     "authors": [
         {
-            "name": "tjm",
-            "email": "tangjinmu@quyum.com"
+            "name": "anyluck",
+            "email": "794230322@outlook.com"
         }
     ],
     "minimum-stability": "dev",
