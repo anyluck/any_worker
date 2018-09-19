@@ -6,7 +6,7 @@
  * Time: 11:16
  */
 
-namespace Anyluck;
+namespace Any_ether;
 use Web3\Providers\HttpProvider;
 use Web3\RequestManagers\HttpRequestManager;
 use Web3\Web3;

@@ -6,7 +6,7 @@
  * Time: 16:25
  */
 
-namespace Anyluck;
+namespace Any_ether;
 
 
 class Callback
